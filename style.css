@@ -1,0 +1,34 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.color {
+    color: rgba(101, 12, 184, 0.822);
+}
+
+section {
+    display: flex;
+}
+
+.mango {
+    width: 80%;
+    padding-left:0%;
+}
+
+.orange {
+    width: 50%;
+    padding-top: 7%;
+    padding-left: 10%;
+}
+.jip{
+    text-decoration: none;
+    background-image: linear-gradient(blueviolet, black);
+    padding: 10px 28px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
