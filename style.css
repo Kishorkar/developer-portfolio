@@ -12,11 +12,11 @@ h1 {
 
 section {
     display: flex;
+    margin-bottom: 80px;
 }
-
 .mango {
     width: 80%;
-    padding-left:0%;
+    padding-left:3%;
 }
 
 .orange {
@@ -24,6 +24,7 @@ section {
     padding-top: 7%;
     padding-left: 10%;
 }
+
 .jip{
     text-decoration: none;
     background-image: linear-gradient(blueviolet, black);
@@ -31,4 +32,9 @@ section {
     color: white;
     font-weight: 700;
     border-radius: 5px;
+}
+.banana{
+    width: 50%;
+    padding-top: 6%;
+    padding-left: 3%;
 }
